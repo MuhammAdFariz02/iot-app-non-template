@@ -1,0 +1,11 @@
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: dodgerblue;
+    /* Sesuaikan warna */
+    color: #ffffff;
+    /* Warna teks */
+    padding: 10px !important;
+    text-align: center;
+}
