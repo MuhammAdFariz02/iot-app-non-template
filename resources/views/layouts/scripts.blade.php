@@ -3,4 +3,4 @@
 @yield('scripts')
 
 <!-- Script Bootstrap -->
-<script src="{{ asset('build/js/bootstrap.bundle.min.js') }}"></script>
+<script src="{{ asset('bootstrap 5/js/bootstrap.bundle.min.js') }}"></script>

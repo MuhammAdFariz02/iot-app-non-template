@@ -3,7 +3,7 @@
 @yield('css')
 
 <!-- Link ke CSS Bootstrap -->
-<link rel="stylesheet" href="{{ asset('build/css/bootstrap.min.css') }}">
+<link rel="stylesheet" href="{{ asset('bootstrap 5/css/bootstrap.min.css') }}">
 
 <!-- Link ke CSS Custom -->
 <link rel="stylesheet" href="{{ asset('custom/css/style.css') }}">
